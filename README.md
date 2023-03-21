@@ -3,3 +3,9 @@
 
 ## v1.0
 ![image.png](image.png)
+
+## v1.2
+![image.png](lab1.2.png)
+
+## v1.3
+![image.png](lab1.3.png)
